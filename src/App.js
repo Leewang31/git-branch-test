@@ -13,6 +13,7 @@ function App() {
         <p>ghi</p>
         <p>hi 1</p>
         <p>hi 2</p>
+        <p>hi 3</p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
