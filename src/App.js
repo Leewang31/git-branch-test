@@ -10,6 +10,7 @@ function App() {
         <h4>Javascript</h4>
         <p>abc</p>
         <p>def</p>
+        <p>ghi</p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
