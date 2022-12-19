@@ -5,6 +5,15 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h4>Hello</h4>
+        <h4>World</h4>
+        <h4>Javascript</h4>
+        <p>abc</p>
+        <p>def</p>
+        <p>ghi</p>
+        <p>hi 1</p>
+        <p>hi 2</p>
+        <p>hi 3</p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
